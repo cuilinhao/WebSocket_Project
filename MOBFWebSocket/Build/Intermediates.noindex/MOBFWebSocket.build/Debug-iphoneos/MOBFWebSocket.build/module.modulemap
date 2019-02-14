@@ -1,0 +1,6 @@
+framework module MOBFWebSocket {
+  umbrella header "MOBFWebSocket.h"
+
+  export *
+  module * { export * }
+}

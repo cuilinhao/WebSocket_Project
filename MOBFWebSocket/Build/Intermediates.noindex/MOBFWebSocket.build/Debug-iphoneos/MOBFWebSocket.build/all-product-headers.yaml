@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/cuilinhao/Desktop/MOBFWebSocket/Build/Products/Debug-iphoneos/MOBFWebSocket.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MOBFWebSocket-Swift.h",
+          'external-contents': "/Users/cuilinhao/Desktop/MOBFWebSocket/Build/Products/Debug-iphoneos/MOBFWebSocket.framework/Headers/MOBFWebSocket-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/cuilinhao/Desktop/MOBFWebSocket/Build/Products/Debug-iphoneos/MOBFWebSocket.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/cuilinhao/Desktop/MOBFWebSocket/Build/Intermediates.noindex/MOBFWebSocket.build/Debug-iphoneos/MOBFWebSocket.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
